@@ -1,3 +1,2 @@
-# hello-world
-Primeiro dia </p>
-Olááá
+# mndfvr.github.io
+Currículo da Jornada Dev
